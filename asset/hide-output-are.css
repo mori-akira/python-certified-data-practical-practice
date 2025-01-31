@@ -1,0 +1,8 @@
+.jp-OutputArea-output {
+  opacity: 0 !important;
+  cursor: pointer;
+}
+
+.jp-OutputArea-output.focused {
+  opacity: 1 !important;
+}

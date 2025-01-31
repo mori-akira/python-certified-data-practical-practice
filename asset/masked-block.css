@@ -1,0 +1,21 @@
+mask-block,
+m-b {
+  display: inline-block;
+  margin: 0.1rem 0.05rem;
+  padding: 0.1rem 0.5rem;
+  color: #338;
+  background-color: #338;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+mask-block.clicked,
+m-b.clicked {
+  background-color: #ddf;
+}
+
+mask-block:not(.clicked)::selection,
+m-b:not(.clicked)::selection {
+  color: transparent;
+  background-color: transparent;
+}
