@@ -1,0 +1,3189 @@
+{
+  "FY21": {
+    "1": {
+      "detail": [
+        {
+          "data": [
+            { "data": 191.5, "key": "勤務時間" },
+            { "data": 2, "key": "個別MTG" },
+            { "data": 193.5, "key": "総合計" },
+            { "data": 15, "key": "時間外" },
+            { "data": 4, "key": "深夜" },
+            { "data": 20, "key": "出勤日数" },
+            { "data": 3, "key": "有休消化日数" },
+            { "data": 10, "key": "有休残日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 220000, "key": "本給" },
+            { "data": 22065, "key": "時間外手当" },
+            { "data": 1323, "key": "深夜手当" },
+            { "data": 1200, "key": "その他フリー手当" },
+            { "data": 7376, "key": "通勤交通費" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 12831, "key": "健康保険料" },
+            { "data": 23790, "key": "厚生年金料" },
+            { "data": 755, "key": "雇用保険料" },
+            { "data": 5050, "key": "所得税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 251964,
+        "netIncome": 209538,
+        "operatingTime": 193.5,
+        "overtime": 35,
+        "payslipId": 36
+      },
+      "payslipId": 36,
+      "salaryStructure": {
+        "basicSalary": 220000,
+        "bonus": 0,
+        "housingAllowance": 0,
+        "other": 8576,
+        "overtimePay": 23388,
+        "payslipId": 36,
+        "positionAllowance": 0
+      },
+      "targetDate": "Fri, 01 Jan 2021 00:00:00 GMT",
+      "userId": 1
+    },
+    "2": {
+      "detail": [
+        {
+          "data": [
+            { "data": 204, "key": "勤務時間" },
+            { "data": 2, "key": "BOLDay" },
+            { "data": 3, "key": "個別MTG" },
+            { "data": 209, "key": "総合計" },
+            { "data": 45, "key": "時間外" },
+            { "data": 4, "key": "深夜" },
+            { "data": 8, "key": "休日" },
+            { "data": 22, "key": "出勤日数" },
+            { "data": 11, "key": "有休残日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 220000, "key": "本給" },
+            { "data": 66195, "key": "時間外手当" },
+            { "data": 1323, "key": "深夜手当" },
+            { "data": 12704, "key": "休日手当" },
+            { "data": 5100, "key": "テレワーク手当" },
+            { "data": 2640, "key": "通勤交通費" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 12831, "key": "健康保険料" },
+            { "data": 23790, "key": "厚生年金料" },
+            { "data": 923, "key": "雇用保険料" },
+            { "data": 7180, "key": "所得税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 220000,
+        "bonusTakeHome": 180661,
+        "grossIncome": 307962,
+        "netIncome": 263238,
+        "operatingTime": 209,
+        "overtime": 65,
+        "payslipId": 37
+      },
+      "payslipId": 37,
+      "salaryStructure": {
+        "basicSalary": 0,
+        "bonus": 220000,
+        "housingAllowance": 0,
+        "other": 7740,
+        "overtimePay": 80222,
+        "payslipId": 37,
+        "positionAllowance": 0
+      },
+      "targetDate": "Mon, 01 Feb 2021 00:00:00 GMT",
+      "userId": 1
+    },
+    "3": {
+      "detail": [
+        {
+          "data": [
+            { "data": 154.5, "key": "勤務時間" },
+            { "data": 2, "key": "BOLDay" },
+            { "data": 3, "key": "個別MTG" },
+            { "data": 159.5, "key": "総合計" },
+            { "data": 10, "key": "時間外" },
+            { "data": 5, "key": "深夜" },
+            { "data": 9, "key": "休日" },
+            { "data": 17, "key": "出勤日数" },
+            { "data": 1, "key": "有休消化日数" },
+            { "data": 10, "key": "有休残日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 224000, "key": "本給" },
+            { "data": 15719, "key": "時間外手当" },
+            { "data": 1645, "key": "深夜手当" },
+            { "data": 14553, "key": "休日手当" },
+            { "data": 2400, "key": "テレワーク手当" },
+            { "data": 3960, "key": "通勤交通費" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 12792, "key": "健康保険料" },
+            { "data": 23790, "key": "厚生年金料" },
+            { "data": 786, "key": "雇用保険料" },
+            { "data": 5480, "key": "所得税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 262277,
+        "netIncome": 219429,
+        "operatingTime": 159.5,
+        "overtime": 39,
+        "payslipId": 38
+      },
+      "payslipId": 38,
+      "salaryStructure": {
+        "basicSalary": 224000,
+        "bonus": 0,
+        "housingAllowance": 0,
+        "other": 6360,
+        "overtimePay": 31917,
+        "payslipId": 38,
+        "positionAllowance": 0
+      },
+      "targetDate": "Mon, 01 Mar 2021 00:00:00 GMT",
+      "userId": 1
+    },
+    "4": {
+      "detail": [
+        {
+          "data": [
+            { "data": 170, "key": "勤務時間" },
+            { "data": 170, "key": "総合計" },
+            { "data": 20, "key": "出勤日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 220000, "key": "本給" },
+            { "data": 776, "key": "通勤交通費" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 11844, "key": "健康保険料" },
+            { "data": 21960, "key": "厚生年金料" },
+            { "data": 662, "key": "雇用保険料" },
+            { "data": 4270, "key": "所得税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 220776,
+        "netIncome": 182040,
+        "operatingTime": 170,
+        "overtime": 0,
+        "payslipId": 27
+      },
+      "payslipId": 27,
+      "salaryStructure": {
+        "basicSalary": 220000,
+        "bonus": 0,
+        "housingAllowance": 0,
+        "other": 776,
+        "overtimePay": 0,
+        "payslipId": 27,
+        "positionAllowance": 0
+      },
+      "targetDate": "Wed, 01 Apr 2020 00:00:00 GMT",
+      "userId": 1
+    },
+    "5": {
+      "detail": [
+        {
+          "data": [
+            { "data": 143.5, "key": "勤務時間" },
+            { "data": 1, "key": "個別MTG" },
+            { "data": 144.5, "key": "総合計" },
+            { "data": 18, "key": "出勤日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 220000, "key": "本給" },
+            { "data": 120000, "key": "資格奨励金" },
+            { "data": 776, "key": "通勤交通費" },
+            { "data": 3880, "key": "営業交通費" },
+            { "data": 69920, "key": "資格補助" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 11844, "key": "健康保険料" },
+            { "data": 21960, "key": "厚生年金料" },
+            { "data": 1022, "key": "雇用保険料" },
+            { "data": 8910, "key": "所得税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 414576,
+        "netIncome": 370840,
+        "operatingTime": 144.5,
+        "overtime": 0,
+        "payslipId": 28
+      },
+      "payslipId": 28,
+      "salaryStructure": {
+        "basicSalary": 220000,
+        "bonus": 0,
+        "housingAllowance": 0,
+        "other": 194576,
+        "overtimePay": 0,
+        "payslipId": 28,
+        "positionAllowance": 0
+      },
+      "targetDate": "Fri, 01 May 2020 00:00:00 GMT",
+      "userId": 1
+    },
+    "6": {
+      "detail": [
+        {
+          "data": [
+            { "data": 176, "key": "勤務時間" },
+            { "data": 1, "key": "個別MTG" },
+            { "data": 177, "key": "総合計" },
+            { "data": 22, "key": "出勤日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 220000, "key": "本給" },
+            { "data": 600, "key": "調整分" },
+            { "data": 9946, "key": "通勤交通費" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 11844, "key": "健康保険料" },
+            { "data": 21960, "key": "厚生年金料" },
+            { "data": 691, "key": "雇用保険料" },
+            { "data": 4270, "key": "所得税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 230546,
+        "netIncome": 191781,
+        "operatingTime": 177,
+        "overtime": 0,
+        "payslipId": 29
+      },
+      "payslipId": 29,
+      "salaryStructure": {
+        "basicSalary": 220000,
+        "bonus": 0,
+        "housingAllowance": 0,
+        "other": 10546,
+        "overtimePay": 0,
+        "payslipId": 29,
+        "positionAllowance": 0
+      },
+      "targetDate": "Mon, 01 Jun 2020 00:00:00 GMT",
+      "userId": 1
+    },
+    "7": {
+      "detail": [
+        {
+          "data": [
+            { "data": 207.5, "key": "勤務時間" },
+            { "data": 5, "key": "個別MTG" },
+            { "data": 212.5, "key": "総合計" },
+            { "data": 22, "key": "時間外" },
+            { "data": 6, "key": "深夜" },
+            { "data": 21, "key": "出勤日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 220000, "key": "本給" },
+            { "data": 33098, "key": "時間外手当" },
+            { "data": 1911, "key": "深夜手当" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 11844, "key": "健康保険料" },
+            { "data": 21960, "key": "厚生年金料" },
+            { "data": 765, "key": "雇用保険料" },
+            { "data": 5480, "key": "所得税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 255009,
+        "netIncome": 214960,
+        "operatingTime": 212.5,
+        "overtime": 42,
+        "payslipId": 30
+      },
+      "payslipId": 30,
+      "salaryStructure": {
+        "basicSalary": 220000,
+        "bonus": 0,
+        "housingAllowance": 0,
+        "other": 0,
+        "overtimePay": 35009,
+        "payslipId": 30,
+        "positionAllowance": 0
+      },
+      "targetDate": "Wed, 01 Jul 2020 00:00:00 GMT",
+      "userId": 1
+    },
+    "8": {
+      "detail": [
+        {
+          "data": [
+            { "data": 227.75, "key": "勤務時間" },
+            { "data": 3, "key": "個別MTG" },
+            { "data": 230.75, "key": "総合計" },
+            { "data": 34, "key": "時間外" },
+            { "data": 4, "key": "深夜" },
+            { "data": 22, "key": "出勤日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 220000, "key": "本給" },
+            { "data": 50750, "key": "時間外手当" },
+            { "data": 1176, "key": "深夜手当" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 11844, "key": "健康保険料" },
+            { "data": 21960, "key": "厚生年金料" },
+            { "data": 815, "key": "雇用保険料" },
+            { "data": 6110, "key": "所得税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 271926,
+        "netIncome": 231197,
+        "operatingTime": 230.75,
+        "overtime": 54,
+        "payslipId": 31
+      },
+      "payslipId": 31,
+      "salaryStructure": {
+        "basicSalary": 220000,
+        "bonus": 0,
+        "housingAllowance": 0,
+        "other": 0,
+        "overtimePay": 51926,
+        "payslipId": 31,
+        "positionAllowance": 0
+      },
+      "targetDate": "Sat, 01 Aug 2020 00:00:00 GMT",
+      "userId": 1
+    },
+    "9": {
+      "detail": [
+        {
+          "data": [
+            { "data": 196.25, "key": "勤務時間" },
+            { "data": 3, "key": "個別MTG" },
+            { "data": 199.25, "key": "総合計" },
+            { "data": 27, "key": "時間外" },
+            { "data": 2, "key": "深夜" },
+            { "data": 21, "key": "出勤日数" },
+            { "data": 3, "key": "有休残日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 220000, "key": "本給" },
+            { "data": 39717, "key": "時間外手当" },
+            { "data": 588, "key": "深夜手当" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 10857, "key": "健康保険料" },
+            { "data": 20130, "key": "厚生年金料" },
+            { "data": 780, "key": "雇用保険料" },
+            { "data": 5780, "key": "所得税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 260305,
+        "netIncome": 222758,
+        "operatingTime": 199.25,
+        "overtime": 47,
+        "payslipId": 32
+      },
+      "payslipId": 32,
+      "salaryStructure": {
+        "basicSalary": 220000,
+        "bonus": 0,
+        "housingAllowance": 0,
+        "other": 0,
+        "overtimePay": 40305,
+        "payslipId": 32,
+        "positionAllowance": 0
+      },
+      "targetDate": "Tue, 01 Sep 2020 00:00:00 GMT",
+      "userId": 1
+    },
+    "10": {
+      "detail": [
+        {
+          "data": [
+            { "data": 269.5, "key": "勤務時間" },
+            { "data": 2, "key": "個別MTG" },
+            { "data": 271.5, "key": "総合計" },
+            { "data": 47, "key": "時間外" },
+            { "data": 1, "key": "深夜" },
+            { "data": 12, "key": "休日" },
+            { "data": 27, "key": "出勤日数" },
+            { "data": 13, "key": "有休残日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 220000, "key": "本給" },
+            { "data": 69873, "key": "時間外手当" },
+            { "data": 441, "key": "深夜手当" },
+            { "data": 19056, "key": "休日手当" },
+            { "data": 3926, "key": "通勤交通費" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 12831, "key": "健康保険料" },
+            { "data": 23790, "key": "厚生年金料" },
+            { "data": 939, "key": "雇用保険料" },
+            { "data": 7280, "key": "所得税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 313296,
+        "netIncome": 268456,
+        "operatingTime": 271.5,
+        "overtime": 79,
+        "payslipId": 33
+      },
+      "payslipId": 33,
+      "salaryStructure": {
+        "basicSalary": 220000,
+        "bonus": 0,
+        "housingAllowance": 0,
+        "other": 3926,
+        "overtimePay": 89370,
+        "payslipId": 33,
+        "positionAllowance": 0
+      },
+      "targetDate": "Thu, 01 Oct 2020 00:00:00 GMT",
+      "userId": 1
+    },
+    "11": {
+      "detail": [
+        {
+          "data": [
+            { "data": 183, "key": "勤務時間" },
+            { "data": 3, "key": "個別MTG" },
+            { "data": 186, "key": "総合計" },
+            { "data": 6, "key": "時間外" },
+            { "data": 20, "key": "出勤日数" },
+            { "data": 13, "key": "有休残日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 220000, "key": "本給" },
+            { "data": 8826, "key": "時間外手当" },
+            { "data": 5616, "key": "通勤交通費" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 12831, "key": "健康保険料" },
+            { "data": 23790, "key": "厚生年金料" },
+            { "data": 703, "key": "雇用保険料" },
+            { "data": 4480, "key": "所得税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 234442,
+        "netIncome": 210760,
+        "operatingTime": 186,
+        "overtime": 26,
+        "payslipId": 34
+      },
+      "payslipId": 34,
+      "salaryStructure": {
+        "basicSalary": 220000,
+        "bonus": 0,
+        "housingAllowance": 0,
+        "other": 5616,
+        "overtimePay": 8826,
+        "payslipId": 34,
+        "positionAllowance": 0
+      },
+      "targetDate": "Sun, 01 Nov 2020 00:00:00 GMT",
+      "userId": 1
+    },
+    "12": {
+      "detail": [
+        {
+          "data": [
+            { "data": 235.25, "key": "勤務時間" },
+            { "data": 2, "key": "BOLDay" },
+            { "data": 3, "key": "個別MTG" },
+            { "data": 240.25, "key": "総合計" },
+            { "data": 28, "key": "時間外" },
+            { "data": 3, "key": "深夜" },
+            { "data": 24, "key": "出勤日数" },
+            { "data": 13, "key": "有休残日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 220000, "key": "本給" },
+            { "data": 41188, "key": "時間外手当" },
+            { "data": 1029, "key": "深夜手当" },
+            { "data": 1500, "key": "その他フリー手当" },
+            { "data": 9368, "key": "通勤交通費" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 12831, "key": "健康保険料" },
+            { "data": 23790, "key": "厚生年金料" },
+            { "data": 819, "key": "雇用保険料" },
+            { "data": 5680, "key": "所得税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 273085,
+        "netIncome": 229965,
+        "operatingTime": 240.25,
+        "overtime": 48,
+        "payslipId": 35
+      },
+      "payslipId": 35,
+      "salaryStructure": {
+        "basicSalary": 220000,
+        "bonus": 0,
+        "housingAllowance": 0,
+        "other": 10868,
+        "overtimePay": 42217,
+        "payslipId": 35,
+        "positionAllowance": 0
+      },
+      "targetDate": "Tue, 01 Dec 2020 00:00:00 GMT",
+      "userId": 1
+    }
+  },
+  "FY22": {
+    "1": {
+      "detail": [
+        {
+          "data": [
+            { "data": 7, "key": "出勤" },
+            { "data": 1, "key": "有休" },
+            { "data": 1, "key": "半休" },
+            { "data": 1, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 103111, "key": "基本給" },
+            { "data": 2667, "key": "事業所手当" },
+            { "data": 22222, "key": "寮補助手当" },
+            { "data": 2378, "key": "平日普通残業手当" },
+            { "data": 6818, "key": "通勤手当" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 411, "key": "雇用保険料" },
+            { "data": 2250, "key": "所得税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 137196,
+        "netIncome": 134535,
+        "operatingTime": 51.375,
+        "overtime": 1,
+        "payslipId": 26
+      },
+      "payslipId": 26,
+      "salaryStructure": {
+        "basicSalary": 103111,
+        "bonus": 0,
+        "housingAllowance": 22222,
+        "other": 9485,
+        "overtimePay": 2378,
+        "payslipId": 26,
+        "positionAllowance": 0
+      },
+      "targetDate": "Sat, 01 Jan 2022 00:00:00 GMT",
+      "userId": 1
+    },
+    "2": {
+      "detail": [
+        {
+          "data": [
+            { "data": 21, "key": "出勤" },
+            { "data": 13.25, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 232000, "key": "基本給" },
+            { "data": 3429, "key": "事業所手当" },
+            { "data": 2700, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 31896, "key": "平日普通残業手当" },
+            { "data": 11688, "key": "通勤手当" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 995, "key": "雇用保険料" },
+            { "data": 7270, "key": "所得税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 331713,
+        "netIncome": 274488,
+        "operatingTime": 176,
+        "overtime": 13.25,
+        "payslipId": 25
+      },
+      "payslipId": 25,
+      "salaryStructure": {
+        "basicSalary": 232000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 17817,
+        "overtimePay": 31896,
+        "payslipId": 25,
+        "positionAllowance": 0
+      },
+      "targetDate": "Tue, 01 Feb 2022 00:00:00 GMT",
+      "userId": 1
+    },
+    "3": {
+      "detail": [
+        {
+          "data": [
+            { "data": 18, "key": "出勤" },
+            { "data": 1, "key": "有休" },
+            { "data": 6.5, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 232000, "key": "基本給" },
+            { "data": 3789, "key": "事業所手当" },
+            { "data": 2100, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 15634, "key": "平日普通残業手当" },
+            { "data": 10714, "key": "通勤手当" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 942, "key": "雇用保険料" },
+            { "data": 6680, "key": "所得税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 314237,
+        "netIncome": 257655,
+        "operatingTime": 146,
+        "overtime": 6.5,
+        "payslipId": 24
+      },
+      "payslipId": 24,
+      "salaryStructure": {
+        "basicSalary": 232000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 16603,
+        "overtimePay": 15634,
+        "payslipId": 24,
+        "positionAllowance": 0
+      },
+      "targetDate": "Tue, 01 Mar 2022 00:00:00 GMT",
+      "userId": 1
+    },
+    "4": {
+      "detail": [
+        {
+          "data": [
+            { "data": 148, "key": "勤務時間" },
+            { "data": 2, "key": "BOLDay" },
+            { "data": 1, "key": "個別MTG" },
+            { "data": 151, "key": "総合計" },
+            { "data": 19, "key": "出勤日数" },
+            { "data": 10, "key": "有休残日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 224000, "key": "本給" },
+            { "data": 4950, "key": "テレワーク手当" },
+            { "data": 1284, "key": "通勤交通費" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 11570, "key": "健康保険料" },
+            { "data": 23790, "key": "厚生年金料" },
+            { "data": 690, "key": "雇用保険料" },
+            { "data": 4480, "key": "所得税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 230234,
+        "netIncome": 189704,
+        "operatingTime": 151,
+        "overtime": 0,
+        "payslipId": 39
+      },
+      "payslipId": 39,
+      "salaryStructure": {
+        "basicSalary": 224000,
+        "bonus": 0,
+        "housingAllowance": 0,
+        "other": 6234,
+        "overtimePay": 0,
+        "payslipId": 39,
+        "positionAllowance": 0
+      },
+      "targetDate": "Thu, 01 Apr 2021 00:00:00 GMT",
+      "userId": 1
+    },
+    "5": {
+      "detail": [
+        {
+          "data": [
+            { "data": 139.25, "key": "勤務時間" },
+            { "data": 2, "key": "BOLDay" },
+            { "data": 1, "key": "個別MTG" },
+            { "data": 142.25, "key": "総合計" },
+            { "data": 16, "key": "出勤日数" },
+            { "data": 10, "key": "有休残日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 224000, "key": "本給" },
+            { "data": 150, "key": "深夜手当" },
+            { "data": 3000, "key": "テレワーク手当" },
+            { "data": 2640, "key": "通勤交通費" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 11570, "key": "健康保険料" },
+            { "data": 23790, "key": "厚生年金料" },
+            { "data": 689, "key": "雇用保険料" },
+            { "data": 4480, "key": "所得税" },
+            { "data": 8900, "key": "住民税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 229790,
+        "netIncome": 180361,
+        "operatingTime": 142.25,
+        "overtime": 0,
+        "payslipId": 40
+      },
+      "payslipId": 40,
+      "salaryStructure": {
+        "basicSalary": 224000,
+        "bonus": 0,
+        "housingAllowance": 0,
+        "other": 5640,
+        "overtimePay": 150,
+        "payslipId": 40,
+        "positionAllowance": 0
+      },
+      "targetDate": "Sat, 01 May 2021 00:00:00 GMT",
+      "userId": 1
+    },
+    "6": {
+      "detail": [
+        {
+          "data": [
+            { "data": 178.5, "key": "勤務時間" },
+            { "data": 2, "key": "BOLDay" },
+            { "data": 1, "key": "個別MTG" },
+            { "data": 181.5, "key": "総合計" },
+            { "data": 21, "key": "出勤日数" },
+            { "data": 1, "key": "有休消化日数" },
+            { "data": 9, "key": "有休残日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 224000, "key": "本給" },
+            { "data": 3000, "key": "テレワーク手当" },
+            { "data": 4840, "key": "通勤交通費" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 11570, "key": "健康保険料" },
+            { "data": 23790, "key": "厚生年金料" },
+            { "data": 695, "key": "雇用保険料" },
+            { "data": 4410, "key": "所得税" },
+            { "data": 8900, "key": "住民税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 100000,
+        "bonusTakeHome": 82584,
+        "grossIncome": 231840,
+        "netIncome": 182475,
+        "operatingTime": 181.5,
+        "overtime": 0,
+        "payslipId": 41
+      },
+      "payslipId": 41,
+      "salaryStructure": {
+        "basicSalary": 224000,
+        "bonus": 100000,
+        "housingAllowance": 0,
+        "other": 7840,
+        "overtimePay": 0,
+        "payslipId": 41,
+        "positionAllowance": 0
+      },
+      "targetDate": "Tue, 01 Jun 2021 00:00:00 GMT",
+      "userId": 1
+    },
+    "7": {
+      "detail": [
+        {
+          "data": [
+            { "data": 216.5, "key": "勤務時間" },
+            { "data": 2, "key": "BOLDay" },
+            { "data": 1, "key": "個別MTG" },
+            { "data": 219.5, "key": "総合計" },
+            { "data": 32, "key": "時間外" },
+            { "data": 6, "key": "深夜" },
+            { "data": 8, "key": "休日" },
+            { "data": 23, "key": "出勤日数" },
+            { "data": 9, "key": "有休残日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 224000, "key": "本給" },
+            { "data": 48653, "key": "時間外手当" },
+            { "data": 1794, "key": "深夜手当" },
+            { "data": 12936, "key": "休日手当" },
+            { "data": 4950, "key": "テレワーク手当" },
+            { "data": 2640, "key": "通勤交通費" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 11570, "key": "健康保険料" },
+            { "data": 23790, "key": "厚生年金料" },
+            { "data": 884, "key": "雇用保険料" },
+            { "data": 6750, "key": "所得税" },
+            { "data": 8900, "key": "住民税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 294973,
+        "netIncome": 243079,
+        "operatingTime": 219.5,
+        "overtime": 60,
+        "payslipId": 42
+      },
+      "payslipId": 42,
+      "salaryStructure": {
+        "basicSalary": 224000,
+        "bonus": 0,
+        "housingAllowance": 0,
+        "other": 7590,
+        "overtimePay": 63383,
+        "payslipId": 42,
+        "positionAllowance": 0
+      },
+      "targetDate": "Thu, 01 Jul 2021 00:00:00 GMT",
+      "userId": 1
+    },
+    "8": {
+      "detail": [
+        {
+          "data": [
+            { "data": 131, "key": "勤務時間" },
+            { "data": 2, "key": "BOLDay" },
+            { "data": 1, "key": "個別MTG" },
+            { "data": 134, "key": "総合計" },
+            { "data": 17, "key": "出勤日数" },
+            { "data": 1, "key": "有休消化日数" },
+            { "data": 8, "key": "有休残日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 224000, "key": "本給" },
+            { "data": 4950, "key": "テレワーク手当" },
+            { "data": 776, "key": "通勤交通費" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 9790, "key": "健康保険料" },
+            { "data": 20130, "key": "厚生年金料" },
+            { "data": 689, "key": "雇用保険料" },
+            { "data": 4700, "key": "所得税" },
+            { "data": 8900, "key": "住民税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 222667,
+        "bonusTakeHome": 180057,
+        "grossIncome": 229726,
+        "netIncome": 185517,
+        "operatingTime": 134,
+        "overtime": 0,
+        "payslipId": 43
+      },
+      "payslipId": 43,
+      "salaryStructure": {
+        "basicSalary": 224000,
+        "bonus": 222667,
+        "housingAllowance": 0,
+        "other": 5726,
+        "overtimePay": 0,
+        "payslipId": 43,
+        "positionAllowance": 0
+      },
+      "targetDate": "Sun, 01 Aug 2021 00:00:00 GMT",
+      "userId": 1
+    },
+    "9": {
+      "detail": [
+        {
+          "data": [
+            { "data": 145.5, "key": "勤務時間" },
+            { "data": 145.5, "key": "総合計" },
+            { "data": 19, "key": "出勤日数" },
+            { "data": 1, "key": "遅刻回数" },
+            { "data": 1, "key": "有休消化日数" },
+            { "data": 7, "key": "有休残日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 232000, "key": "本給" },
+            { "data": 5700, "key": "テレワーク手当" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 9790, "key": "健康保険料" },
+            { "data": 20130, "key": "厚生年金料" },
+            { "data": 713, "key": "雇用保険料" },
+            { "data": 5050, "key": "所得税" },
+            { "data": 8900, "key": "住民税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 237700,
+        "netIncome": 193117,
+        "operatingTime": 145.5,
+        "overtime": 0,
+        "payslipId": 44
+      },
+      "payslipId": 44,
+      "salaryStructure": {
+        "basicSalary": 232000,
+        "bonus": 0,
+        "housingAllowance": 0,
+        "other": 5700,
+        "overtimePay": 0,
+        "payslipId": 44,
+        "positionAllowance": 0
+      },
+      "targetDate": "Wed, 01 Sep 2021 00:00:00 GMT",
+      "userId": 1
+    },
+    "10": {
+      "detail": [
+        {
+          "data": [
+            { "data": 120.5, "key": "勤務時間" },
+            { "data": 120.5, "key": "総合計" },
+            { "data": 16, "key": "出勤日数" },
+            { "data": 1, "key": "欠勤日数" },
+            { "data": 5, "key": "有休消化日数" },
+            { "data": 13, "key": "有休残日数" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 232000, "key": "本給" },
+            { "data": 4500, "key": "テレワーク手当" },
+            { "data": -3723, "key": "時間控除" },
+            { "data": 776, "key": "通勤交通費" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 9790, "key": "健康保険料" },
+            { "data": 20130, "key": "厚生年金料" },
+            { "data": 700, "key": "雇用保険料" },
+            { "data": 4840, "key": "所得税" },
+            { "data": 8900, "key": "住民税" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 233553,
+        "netIncome": 189193,
+        "operatingTime": 120.5,
+        "overtime": 0,
+        "payslipId": 45
+      },
+      "payslipId": 45,
+      "salaryStructure": {
+        "basicSalary": 232000,
+        "bonus": 0,
+        "housingAllowance": 0,
+        "other": 1553,
+        "overtimePay": 0,
+        "payslipId": 45,
+        "positionAllowance": 0
+      },
+      "targetDate": "Fri, 01 Oct 2021 00:00:00 GMT",
+      "userId": 1
+    }
+  },
+  "FY23": {
+    "1": {
+      "detail": [
+        {
+          "data": [
+            { "data": 14, "key": "出勤" },
+            { "data": 2, "key": "有休" },
+            { "data": 2.5, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 245000, "key": "基本給" },
+            { "data": 4500, "key": "営業所手当" },
+            { "data": 1200, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 6281, "key": "平日普通残業手当" },
+            { "data": 8800, "key": "通勤手当" },
+            { "data": 306, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 1578, "key": "雇用保険料" },
+            { "data": 6790, "key": "所得税" },
+            { "data": 612, "key": "休業補償懇親会費" },
+            { "data": 1700, "key": "その他控除" }
+          ],
+          "key": "控除"
+        },
+        {
+          "data": [
+            { "data": 250, "key": "食事代" },
+            { "data": 1450, "key": "レクリエーション参加費用" }
+          ],
+          "key": "その他控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 316087,
+        "netIncome": 256447,
+        "operatingTime": 111,
+        "overtime": 2.5,
+        "payslipId": 14
+      },
+      "payslipId": 14,
+      "salaryStructure": {
+        "basicSalary": 245000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 14806,
+        "overtimePay": 6281,
+        "payslipId": 14,
+        "positionAllowance": 0
+      },
+      "targetDate": "Sun, 01 Jan 2023 00:00:00 GMT",
+      "userId": 1
+    },
+    "2": {
+      "detail": [
+        {
+          "data": [
+            { "data": 20, "key": "出勤" },
+            { "data": 2, "key": "有休" },
+            { "data": 24.25, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 245000, "key": "基本給" },
+            { "data": 3545, "key": "営業所手当" },
+            { "data": 2700, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 61269, "key": "平日普通残業手当" },
+            { "data": 9240, "key": "通勤手当" },
+            { "data": 306, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 1858, "key": "雇用保険料" },
+            { "data": 9360, "key": "所得税" },
+            { "data": 612, "key": "休業補償懇親会費" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 372060,
+        "netIncome": 311270,
+        "operatingTime": 179.25,
+        "overtime": 24.25,
+        "payslipId": 13
+      },
+      "payslipId": 13,
+      "salaryStructure": {
+        "basicSalary": 245000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 15791,
+        "overtimePay": 61269,
+        "payslipId": 13,
+        "positionAllowance": 0
+      },
+      "targetDate": "Wed, 01 Feb 2023 00:00:00 GMT",
+      "userId": 1
+    },
+    "3": {
+      "detail": [
+        {
+          "data": [
+            { "data": 18, "key": "出勤" },
+            { "data": 1, "key": "有休" },
+            { "data": 27.75, "key": "平日普通" },
+            { "data": 7.5, "key": "休日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 245000, "key": "基本給" },
+            { "data": 3789, "key": "営業所手当" },
+            { "data": 2400, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 70099, "key": "平日普通残業手当" },
+            { "data": 21132, "key": "休日普通残業手当" },
+            { "data": 6160, "key": "通勤手当" },
+            { "data": 306, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 1992, "key": "雇用保険料" },
+            { "data": 11790, "key": "所得税" },
+            { "data": 612, "key": "休業補償懇親会費" },
+            { "data": 347, "key": "食事代" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 398886,
+        "netIncome": 335185,
+        "operatingTime": 174.75,
+        "overtime": 35.25,
+        "payslipId": 12
+      },
+      "payslipId": 12,
+      "salaryStructure": {
+        "basicSalary": 245000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 12655,
+        "overtimePay": 91231,
+        "payslipId": 12,
+        "positionAllowance": 0
+      },
+      "targetDate": "Wed, 01 Mar 2023 00:00:00 GMT",
+      "userId": 1
+    },
+    "4": {
+      "detail": [
+        {
+          "data": [
+            { "data": 21, "key": "出勤" },
+            { "data": 1, "key": "有休" },
+            { "data": 28.75, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 232000, "key": "基本給" },
+            { "data": 3818, "key": "営業所手当" },
+            { "data": 2400, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 69230, "key": "平日普通残業手当" },
+            { "data": 12662, "key": "通勤手当" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 1110, "key": "雇用保険料" },
+            { "data": 8980, "key": "所得税" },
+            { "data": 1000, "key": "その他控除" }
+          ],
+          "key": "控除"
+        },
+        { "data": [{ "data": 1000, "key": "募金代" }], "key": "その他控除" }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 370110,
+        "netIncome": 310060,
+        "operatingTime": 191.5,
+        "overtime": 28.75,
+        "payslipId": 23
+      },
+      "payslipId": 23,
+      "salaryStructure": {
+        "basicSalary": 232000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 18880,
+        "overtimePay": 69230,
+        "payslipId": 23,
+        "positionAllowance": 0
+      },
+      "targetDate": "Fri, 01 Apr 2022 00:00:00 GMT",
+      "userId": 1
+    },
+    "5": {
+      "detail": [
+        {
+          "data": [
+            { "data": 16, "key": "出勤" },
+            { "data": 1, "key": "有休" },
+            { "data": 16.75, "key": "平日普通" },
+            { "data": 0.25, "key": "平日深夜" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 245000, "key": "基本給" },
+            { "data": 4588, "key": "営業所手当" },
+            { "data": 1200, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 47119, "key": "平日普通残業手当" },
+            { "data": 773, "key": "平日深夜残業手当" },
+            { "data": 11688, "key": "通勤手当" },
+            { "data": 306, "key": "調整B" },
+            { "data": 8075, "key": "昇給差額" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 1105, "key": "雇用保険料" },
+            { "data": 8950, "key": "所得税" },
+            { "data": 612, "key": "休業補償懇親会費" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 368749,
+        "netIncome": 309122,
+        "operatingTime": 143,
+        "overtime": 19,
+        "payslipId": 22
+      },
+      "payslipId": 22,
+      "salaryStructure": {
+        "basicSalary": 245000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 25857,
+        "overtimePay": 47892,
+        "payslipId": 22,
+        "positionAllowance": 0
+      },
+      "targetDate": "Sun, 01 May 2022 00:00:00 GMT",
+      "userId": 1
+    },
+    "6": {
+      "detail": [
+        {
+          "data": [
+            { "data": 21, "key": "出勤" },
+            { "data": 1, "key": "有休" },
+            { "data": 4.75, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 245000, "key": "基本給" },
+            { "data": 4636, "key": "営業所手当" },
+            { "data": 1500, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 11951, "key": "平日普通残業手当" },
+            { "data": 9364, "key": "通勤手当" },
+            { "data": 306, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 967, "key": "雇用保険料" },
+            { "data": 7030, "key": "所得税" },
+            { "data": 612, "key": "休業補償懇親会費" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 262210,
+        "bonusTakeHome": 207350,
+        "grossIncome": 322757,
+        "netIncome": 265188,
+        "operatingTime": 167.5,
+        "overtime": 4.75,
+        "payslipId": 21
+      },
+      "payslipId": 21,
+      "salaryStructure": {
+        "basicSalary": 245000,
+        "bonus": 262210,
+        "housingAllowance": 50000,
+        "other": 15806,
+        "overtimePay": 11951,
+        "payslipId": 21,
+        "positionAllowance": 0
+      },
+      "targetDate": "Wed, 01 Jun 2022 00:00:00 GMT",
+      "userId": 1
+    },
+    "7": {
+      "detail": [
+        {
+          "data": [
+            { "data": 22, "key": "出勤" },
+            { "data": 8, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 245000, "key": "基本給" },
+            { "data": 4909, "key": "営業所手当" },
+            { "data": 1200, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 20126, "key": "平日普通残業手当" },
+            { "data": 6160, "key": "通勤手当" },
+            { "data": 306, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 982, "key": "雇用保険料" },
+            { "data": 7320, "key": "所得税" },
+            { "data": 612, "key": "休業補償懇親会費" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 327701,
+        "netIncome": 269827,
+        "operatingTime": 178.5,
+        "overtime": 8,
+        "payslipId": 20
+      },
+      "payslipId": 20,
+      "salaryStructure": {
+        "basicSalary": 245000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 12575,
+        "overtimePay": 20126,
+        "payslipId": 20,
+        "positionAllowance": 0
+      },
+      "targetDate": "Fri, 01 Jul 2022 00:00:00 GMT",
+      "userId": 1
+    },
+    "8": {
+      "detail": [
+        {
+          "data": [
+            { "data": 17, "key": "出勤" },
+            { "data": 1, "key": "有休" },
+            { "data": 2.5, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 245000, "key": "基本給" },
+            { "data": 4000, "key": "営業所手当" },
+            { "data": 1800, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 6283, "key": "平日普通残業手当" },
+            { "data": 6160, "key": "通勤手当" },
+            { "data": 306, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 939, "key": "雇用保険料" },
+            { "data": 6820, "key": "所得税" },
+            { "data": 612, "key": "休業補償懇親会費" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 313549,
+        "netIncome": 256218,
+        "operatingTime": 134.25,
+        "overtime": 2.5,
+        "payslipId": 19
+      },
+      "payslipId": 19,
+      "salaryStructure": {
+        "basicSalary": 245000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 12266,
+        "overtimePay": 6283,
+        "payslipId": 19,
+        "positionAllowance": 0
+      },
+      "targetDate": "Mon, 01 Aug 2022 00:00:00 GMT",
+      "userId": 1
+    },
+    "9": {
+      "detail": [
+        {
+          "data": [
+            { "data": 20, "key": "出勤" },
+            { "data": 2, "key": "有休" },
+            { "data": 3.75, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 245000, "key": "基本給" },
+            { "data": 3273, "key": "営業所手当" },
+            { "data": 3000, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 9439, "key": "平日普通残業手当" },
+            { "data": 7920, "key": "通勤手当" },
+            { "data": 306, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 955, "key": "雇用保険料" },
+            { "data": 6950, "key": "所得税" },
+            { "data": 612, "key": "休業補償懇親会費" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 318938,
+        "netIncome": 261461,
+        "operatingTime": 158.75,
+        "overtime": 3.75,
+        "payslipId": 18
+      },
+      "payslipId": 18,
+      "salaryStructure": {
+        "basicSalary": 245000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 14499,
+        "overtimePay": 9439,
+        "payslipId": 18,
+        "positionAllowance": 0
+      },
+      "targetDate": "Thu, 01 Sep 2022 00:00:00 GMT",
+      "userId": 1
+    },
+    "10": {
+      "detail": [
+        {
+          "data": [
+            { "data": 18, "key": "出勤" },
+            { "data": 15.5, "key": "平日普通" },
+            { "data": 12, "key": "休日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 245000, "key": "基本給" },
+            { "data": 3000, "key": "営業所手当" },
+            { "data": 2700, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 38940, "key": "平日普通残業手当" },
+            { "data": 33626, "key": "休日普通残業手当" },
+            { "data": 8800, "key": "通勤手当" },
+            { "data": 306, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 1910, "key": "雇用保険料" },
+            { "data": 10230, "key": "所得税" },
+            { "data": 612, "key": "休業補償懇親会費" },
+            { "data": 180, "key": "その他控除" }
+          ],
+          "key": "控除"
+        },
+        { "data": [{ "data": 180, "key": "食事代" }], "key": "その他控除" }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 382372,
+        "netIncome": 320480,
+        "operatingTime": 167,
+        "overtime": 27.5,
+        "payslipId": 17
+      },
+      "payslipId": 17,
+      "salaryStructure": {
+        "basicSalary": 245000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 14806,
+        "overtimePay": 72566,
+        "payslipId": 17,
+        "positionAllowance": 0
+      },
+      "targetDate": "Sat, 01 Oct 2022 00:00:00 GMT",
+      "userId": 1
+    },
+    "11": {
+      "detail": [
+        {
+          "data": [
+            { "data": 21, "key": "出勤" },
+            { "data": 39.25, "key": "平日普通" },
+            { "data": 4.5, "key": "休日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 245000, "key": "基本給" },
+            { "data": 3714, "key": "営業所手当" },
+            { "data": 2700, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 98841, "key": "平日普通残業手当" },
+            { "data": 12640, "key": "休日普通残業手当" },
+            { "data": 11440, "key": "通勤手当" },
+            { "data": 306, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 2121, "key": "雇用保険料" },
+            { "data": 13450, "key": "所得税" },
+            { "data": 612, "key": "休業補償懇親会費" },
+            { "data": 180, "key": "その他控除" }
+          ],
+          "key": "控除"
+        },
+        { "data": [{ "data": 180, "key": "食事代" }], "key": "その他控除" }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 424641,
+        "netIncome": 359318,
+        "operatingTime": 206.5,
+        "overtime": 43.75,
+        "payslipId": 16
+      },
+      "payslipId": 16,
+      "salaryStructure": {
+        "basicSalary": 245000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 18160,
+        "overtimePay": 111481,
+        "payslipId": 16,
+        "positionAllowance": 0
+      },
+      "targetDate": "Tue, 01 Nov 2022 00:00:00 GMT",
+      "userId": 1
+    },
+    "12": {
+      "detail": [
+        {
+          "data": [
+            { "data": 20, "key": "出勤" },
+            { "data": 1, "key": "有休" },
+            { "data": 1, "key": "半休" },
+            { "data": 24, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 245000, "key": "基本給" },
+            { "data": 3714, "key": "営業所手当" },
+            { "data": 2400, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 60378, "key": "平日普通残業手当" },
+            { "data": 10560, "key": "通勤手当" },
+            { "data": 306, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 1860, "key": "雇用保険料" },
+            { "data": 9280, "key": "所得税" },
+            { "data": 612, "key": "休業補償懇親会費" },
+            { "data": 500, "key": "その他控除" },
+            { "data": -45114, "key": "所得税年末調整" }
+          ],
+          "key": "控除"
+        },
+        { "data": [{ "data": 500, "key": "募金代" }], "key": "その他控除" }
+      ],
+      "overview": {
+        "bonus": 735000,
+        "bonusTakeHome": 566904,
+        "grossIncome": 372358,
+        "netIncome": 356260,
+        "operatingTime": 175.125,
+        "overtime": 24,
+        "payslipId": 15
+      },
+      "payslipId": 15,
+      "salaryStructure": {
+        "basicSalary": 245000,
+        "bonus": 735000,
+        "housingAllowance": 50000,
+        "other": 16980,
+        "overtimePay": 60378,
+        "payslipId": 15,
+        "positionAllowance": 0
+      },
+      "targetDate": "Thu, 01 Dec 2022 00:00:00 GMT",
+      "userId": 1
+    }
+  },
+  "FY24": {
+    "1": {
+      "detail": [
+        {
+          "data": [
+            { "data": 15, "key": "出勤" },
+            { "data": 1, "key": "有休" },
+            { "data": 1, "key": "遅早外(回数)" },
+            { "data": 1.25, "key": "遅早外(時間)" },
+            { "data": 27, "key": "平日普通" },
+            { "data": 15.5, "key": "休日普通" },
+            { "data": 0.5, "key": "休日深夜" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 276000, "key": "基本給" },
+            { "data": 3000, "key": "営業所手当" },
+            { "data": 2700, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 75114, "key": "平日普通残業手当" },
+            { "data": 48097, "key": "休日普通勤務手当" },
+            { "data": 1873, "key": "休日深夜勤務手当" },
+            { "data": 6848, "key": "通勤手当" },
+            { "data": 345, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 18245, "key": "健康保険料" },
+            { "data": 37515, "key": "厚生年金保険料" },
+            { "data": 2781, "key": "雇用保険料" },
+            { "data": 16430, "key": "所得税" },
+            { "data": 19600, "key": "住民税" },
+            { "data": 690, "key": "休業補償懇親会費" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 463977,
+        "netIncome": 368716,
+        "operatingTime": 158,
+        "overtime": 43,
+        "payslipId": 2
+      },
+      "payslipId": 2,
+      "salaryStructure": {
+        "basicSalary": 276000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 12893,
+        "overtimePay": 125084,
+        "payslipId": 2,
+        "positionAllowance": 0
+      },
+      "targetDate": "Mon, 01 Jan 2024 00:00:00 GMT",
+      "userId": 1
+    },
+    "2": {
+      "detail": [
+        {
+          "data": [
+            { "data": 23, "key": "出勤" },
+            { "data": 1, "key": "振出" },
+            { "data": 0.25, "key": "\t特別遅早外" },
+            { "data": 50, "key": "平日普通" },
+            { "data": 9.25, "key": "休日普通" },
+            { "data": 0.75, "key": "平日深夜" },
+            { "data": 5.25, "key": "平日普通(60H超)" },
+            { "data": 4.5, "key": "休日普通(60H超)" },
+            { "data": 1, "key": "週40H超過時間(60H超)\t" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 276000, "key": "基本給" },
+            { "data": 2455, "key": "営業所手当" },
+            { "data": 5100, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 139878, "key": "平日普通残業手当" },
+            { "data": 28863, "key": "休日普通勤務手当" },
+            { "data": 2582, "key": "平日深夜残業手当" },
+            { "data": 18023, "key": "平日普通残業手当(60H超)" },
+            { "data": 14526, "key": "休日普通勤務手当(60H超)" },
+            { "data": 7704, "key": "通勤手当" },
+            { "data": 345, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 18245, "key": "健康保険料" },
+            { "data": 37515, "key": "厚生年金保険料" },
+            { "data": 3270, "key": "雇用保険料" },
+            { "data": 26180, "key": "所得税" },
+            { "data": 19600, "key": "住民税" },
+            { "data": 690, "key": "休業補償懇親会費" },
+            { "data": 1000, "key": "その他控除" }
+          ],
+          "key": "控除"
+        },
+        { "data": [{ "data": 1000, "key": "募金代" }], "key": "その他控除" }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 545476,
+        "netIncome": 438976,
+        "operatingTime": 256.5,
+        "overtime": 70.75,
+        "payslipId": 1
+      },
+      "payslipId": 1,
+      "salaryStructure": {
+        "basicSalary": 276000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 15604,
+        "overtimePay": 203872,
+        "payslipId": 1,
+        "positionAllowance": 0
+      },
+      "targetDate": "Thu, 01 Feb 2024 00:00:00 GMT",
+      "userId": 1
+    },
+    "3": {
+      "detail": [
+        {
+          "data": [
+            { "data": 21, "key": "出勤" },
+            { "data": 1, "key": "振出" },
+            { "data": 1, "key": "半休" },
+            { "data": 26, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 276000, "key": "基本給" },
+            { "data": 2400, "key": "営業所手当" },
+            { "data": 3600, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 72397, "key": "平日普通残業手当" },
+            { "data": 7704, "key": "通勤手当" },
+            { "data": 345, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 18245, "key": "健康保険料" },
+            { "data": 37515, "key": "厚生年金保険料" },
+            { "data": 2472, "key": "雇用保険料" },
+            { "data": 16260, "key": "所得税" },
+            { "data": 19600, "key": "住民税" },
+            { "data": 690, "key": "休業補償懇親会費" },
+            { "data": 220, "key": "食事代" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 412446,
+        "netIncome": 317444,
+        "operatingTime": 184.875,
+        "overtime": 26,
+        "payslipId": 46
+      },
+      "payslipId": 46,
+      "salaryStructure": {
+        "basicSalary": 276000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 14049,
+        "overtimePay": 72397,
+        "payslipId": 46,
+        "positionAllowance": 0
+      },
+      "targetDate": "Fri, 01 Mar 2024 00:00:00 GMT",
+      "userId": 1
+    },
+    "4": {
+      "detail": [
+        {
+          "data": [
+            { "data": 20, "key": "出勤" },
+            { "data": 1, "key": "有休" },
+            { "data": 13.75, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 245000, "key": "基本給" },
+            { "data": 3429, "key": "営業所手当" },
+            { "data": 2700, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 34727, "key": "平日普通残業手当" },
+            { "data": 9680, "key": "通勤手当" },
+            { "data": 306, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 2073, "key": "雇用保険料" },
+            { "data": 9620, "key": "所得税" },
+            { "data": 612, "key": "休業補償懇親会費" },
+            { "data": 1000, "key": "その他控除" }
+          ],
+          "key": "控除"
+        },
+        { "data": [{ "data": 1000, "key": "募金代" }], "key": "その他控除" }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 345842,
+        "netIncome": 283577,
+        "operatingTime": 168.75,
+        "overtime": 13.75,
+        "payslipId": 11
+      },
+      "payslipId": 11,
+      "salaryStructure": {
+        "basicSalary": 245000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 16115,
+        "overtimePay": 34727,
+        "payslipId": 11,
+        "positionAllowance": 0
+      },
+      "targetDate": "Sat, 01 Apr 2023 00:00:00 GMT",
+      "userId": 1
+    },
+    "5": {
+      "detail": [
+        {
+          "data": [
+            { "data": 16, "key": "出勤" },
+            { "data": 1, "key": "有休" },
+            { "data": 8.75, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 276000, "key": "基本給" },
+            { "data": 3176, "key": "営業所手当" },
+            { "data": 2400, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 24333, "key": "平日普通残業手当" },
+            { "data": 5280, "key": "通勤手当" },
+            { "data": 345, "key": "調整B" },
+            { "data": 16020, "key": "昇給差額" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 2263, "key": "雇用保険料" },
+            { "data": 10100, "key": "所得税" },
+            { "data": 690, "key": "休業補償懇親会費" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 377554,
+        "netIncome": 315541,
+        "operatingTime": 132.75,
+        "overtime": 8.75,
+        "payslipId": 10
+      },
+      "payslipId": 10,
+      "salaryStructure": {
+        "basicSalary": 276000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 27221,
+        "overtimePay": 24333,
+        "payslipId": 10,
+        "positionAllowance": 0
+      },
+      "targetDate": "Mon, 01 May 2023 00:00:00 GMT",
+      "userId": 1
+    },
+    "6": {
+      "detail": [
+        {
+          "data": [
+            { "data": 20, "key": "出勤" },
+            { "data": 2, "key": "有休" },
+            { "data": 22, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 276000, "key": "基本給" },
+            { "data": 3000, "key": "営業所手当" },
+            { "data": 3300, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 61315, "key": "平日普通残業手当" },
+            { "data": 7728, "key": "通勤手当" },
+            { "data": 345, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 2408, "key": "雇用保険料" },
+            { "data": 11860, "key": "所得税" },
+            { "data": 690, "key": "休業補償懇親会費" },
+            { "data": 500, "key": "その他控除" }
+          ],
+          "key": "控除"
+        },
+        { "data": [{ "data": 500, "key": "募金代" }], "key": "その他控除" }
+      ],
+      "overview": {
+        "bonus": 809000,
+        "bonusTakeHome": 637428,
+        "grossIncome": 401688,
+        "netIncome": 316770,
+        "operatingTime": 177,
+        "overtime": 22,
+        "payslipId": 9
+      },
+      "payslipId": 9,
+      "salaryStructure": {
+        "basicSalary": 276000,
+        "bonus": 809000,
+        "housingAllowance": 50000,
+        "other": 14373,
+        "overtimePay": 61315,
+        "payslipId": 9,
+        "positionAllowance": 0
+      },
+      "targetDate": "Thu, 01 Jun 2023 00:00:00 GMT",
+      "userId": 1
+    },
+    "7": {
+      "detail": [
+        {
+          "data": [
+            { "data": 20, "key": "出勤" },
+            { "data": 1, "key": "有休" },
+            { "data": 26, "key": "平日普通" },
+            { "data": 5, "key": "休日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 276000, "key": "基本給" },
+            { "data": 3143, "key": "営業所手当" },
+            { "data": 3300, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 72494, "key": "平日普通残業手当" },
+            { "data": 15550, "key": "休日普通残業手当" },
+            { "data": 6848, "key": "通勤手当" },
+            { "data": 345, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 2564, "key": "雇用保険料" },
+            { "data": 14040, "key": "所得税" },
+            { "data": 19600, "key": "住民税" },
+            { "data": 690, "key": "休業補償懇親会費" },
+            { "data": 70, "key": "食事代" },
+            { "data": 500, "key": "その他控除" }
+          ],
+          "key": "控除"
+        },
+        { "data": [{ "data": 500, "key": "コンパ代" }], "key": "その他控除" }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 427680,
+        "netIncome": 341256,
+        "operatingTime": 186,
+        "overtime": 31,
+        "payslipId": 8
+      },
+      "payslipId": 8,
+      "salaryStructure": {
+        "basicSalary": 276000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 13636,
+        "overtimePay": 88044,
+        "payslipId": 8,
+        "positionAllowance": 0
+      },
+      "targetDate": "Sat, 01 Jul 2023 00:00:00 GMT",
+      "userId": 1
+    },
+    "8": {
+      "detail": [
+        {
+          "data": [
+            { "data": 17, "key": "出勤" },
+            { "data": 2, "key": "有休" },
+            { "data": 1.75, "key": "平日普通" },
+            { "data": 9.75, "key": "休日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 276000, "key": "基本給" },
+            { "data": 3789, "key": "営業所手当" },
+            { "data": 2700, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 4880, "key": "平日普通残業手当" },
+            { "data": 30326, "key": "休日普通勤務手当" },
+            { "data": 8560, "key": "通勤手当" },
+            { "data": 345, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 16020, "key": "健康保険料" },
+            { "data": 32940, "key": "厚生年金保険料" },
+            { "data": 2257, "key": "雇用保険料" },
+            { "data": 9750, "key": "所得税" },
+            { "data": 19600, "key": "住民税" },
+            { "data": 690, "key": "休業補償懇親会費" },
+            { "data": 80, "key": "食事代" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 376600,
+        "netIncome": 295263,
+        "operatingTime": 143.25,
+        "overtime": 11.5,
+        "payslipId": 7
+      },
+      "payslipId": 7,
+      "salaryStructure": {
+        "basicSalary": 276000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 15394,
+        "overtimePay": 35206,
+        "payslipId": 7,
+        "positionAllowance": 0
+      },
+      "targetDate": "Tue, 01 Aug 2023 00:00:00 GMT",
+      "userId": 1
+    },
+    "9": {
+      "detail": [
+        {
+          "data": [
+            { "data": 20, "key": "出勤" },
+            { "data": 2, "key": "有休" },
+            { "data": 2, "key": "遅早外(回数)" },
+            { "data": 4.25, "key": "遅早外(時間)" },
+            { "data": 8.75, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 276000, "key": "基本給" },
+            { "data": 2455, "key": "営業所手当" },
+            { "data": 3900, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 24391, "key": "平日普通残業手当" },
+            { "data": 5992, "key": "通勤手当" },
+            { "data": 345, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 18245, "key": "健康保険料" },
+            { "data": 37515, "key": "厚生年金保険料" },
+            { "data": 2176, "key": "雇用保険料" },
+            { "data": 10760, "key": "所得税" },
+            { "data": 19600, "key": "住民税" },
+            { "data": 690, "key": "休業補償懇親会費" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 363083,
+        "netIncome": 274097,
+        "operatingTime": 159.5,
+        "overtime": 8.75,
+        "payslipId": 6
+      },
+      "payslipId": 6,
+      "salaryStructure": {
+        "basicSalary": 276000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 12692,
+        "overtimePay": 24391,
+        "payslipId": 6,
+        "positionAllowance": 0
+      },
+      "targetDate": "Fri, 01 Sep 2023 00:00:00 GMT",
+      "userId": 1
+    },
+    "10": {
+      "detail": [
+        {
+          "data": [
+            { "data": 14, "key": "出勤" },
+            { "data": 4, "key": "有休" },
+            { "data": 4.5, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 276000, "key": "基本給" },
+            { "data": 3667, "key": "営業所手当" },
+            { "data": 2100, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 12522, "key": "平日普通残業手当" },
+            { "data": 5992, "key": "通勤手当" },
+            { "data": 345, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 18245, "key": "健康保険料" },
+            { "data": 37515, "key": "厚生年金保険料" },
+            { "data": 2101, "key": "雇用保険料" },
+            { "data": 7870, "key": "所得税" },
+            { "data": 19600, "key": "住民税" },
+            { "data": 690, "key": "休業補償懇親会費" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 350626,
+        "netIncome": 264605,
+        "operatingTime": 113,
+        "overtime": 4.5,
+        "payslipId": 5
+      },
+      "payslipId": 5,
+      "salaryStructure": {
+        "basicSalary": 276000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 12104,
+        "overtimePay": 12522,
+        "payslipId": 5,
+        "positionAllowance": 0
+      },
+      "targetDate": "Sun, 01 Oct 2023 00:00:00 GMT",
+      "userId": 1
+    },
+    "11": {
+      "detail": [
+        {
+          "data": [
+            { "data": 20, "key": "出勤" },
+            { "data": 2, "key": "有休" },
+            { "data": 9.5, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 276000, "key": "基本給" },
+            { "data": 3000, "key": "営業所手当" },
+            { "data": 3300, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 26477, "key": "平日普通残業手当" },
+            { "data": 7704, "key": "通勤手当" },
+            { "data": 345, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 18245, "key": "健康保険料" },
+            { "data": 37515, "key": "厚生年金保険料" },
+            { "data": 2198, "key": "雇用保険料" },
+            { "data": 8480, "key": "所得税" },
+            { "data": 19600, "key": "住民税" },
+            { "data": 690, "key": "休業補償懇親会費" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 366826,
+        "netIncome": 280098,
+        "operatingTime": 164.5,
+        "overtime": 9.5,
+        "payslipId": 4
+      },
+      "payslipId": 4,
+      "salaryStructure": {
+        "basicSalary": 276000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 14349,
+        "overtimePay": 26477,
+        "payslipId": 4,
+        "positionAllowance": 0
+      },
+      "targetDate": "Wed, 01 Nov 2023 00:00:00 GMT",
+      "userId": 1
+    },
+    "12": {
+      "detail": [
+        {
+          "data": [
+            { "data": 21, "key": "出勤" },
+            { "data": 1, "key": "半休" },
+            { "data": 26, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 276000, "key": "基本給" },
+            { "data": 2571, "key": "事業所手当" },
+            { "data": 3600, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 72435, "key": "平日普通残業手当" },
+            { "data": 7704, "key": "通勤手当" },
+            { "data": 345, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 18245, "key": "健康保険料" },
+            { "data": 37515, "key": "厚生年金保険料" },
+            { "data": 2473, "key": "雇用保険料" },
+            { "data": 12200, "key": "所得税" },
+            { "data": 19600, "key": "住民税" },
+            { "data": 690, "key": "休業補償懇親会費" },
+            { "data": 1000, "key": "その他控除" },
+            { "data": -20671, "key": "所得税年末調整" }
+          ],
+          "key": "控除"
+        },
+        { "data": [{ "data": 1000, "key": "募金代" }], "key": "その他控除" }
+      ],
+      "overview": {
+        "bonus": 852576,
+        "bonusTakeHome": 671833,
+        "grossIncome": 412655,
+        "netIncome": 341603,
+        "operatingTime": 184.875,
+        "overtime": 26,
+        "payslipId": 3
+      },
+      "payslipId": 3,
+      "salaryStructure": {
+        "basicSalary": 276000,
+        "bonus": 852576,
+        "housingAllowance": 50000,
+        "other": 14220,
+        "overtimePay": 72435,
+        "payslipId": 3,
+        "positionAllowance": 0
+      },
+      "targetDate": "Fri, 01 Dec 2023 00:00:00 GMT",
+      "userId": 1
+    }
+  },
+  "FY25": {
+    "1": {
+      "detail": [
+        {
+          "data": [
+            { "data": 17, "key": "出勤" },
+            { "data": 3, "key": "半休" },
+            { "data": 7.25, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 319500, "key": "基本給" },
+            { "data": 2824, "key": "営業所手当" },
+            { "data": 2700, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 22804, "key": "平日普通残業手当" },
+            { "data": 6420, "key": "通勤手当" },
+            { "data": 399, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 18245, "key": "健康保険料" },
+            { "data": 37515, "key": "厚生年金保険料" },
+            { "data": 2425, "key": "雇用保険料" },
+            { "data": 19860, "key": "所得税" },
+            { "data": 28100, "key": "住民税" },
+            { "data": 798, "key": "休業補償懇親会費" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 404647,
+        "netIncome": 297704,
+        "operatingTime": 127,
+        "overtime": 7.25,
+        "payslipId": 56
+      },
+      "payslipId": 56,
+      "salaryStructure": {
+        "basicSalary": 299500,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 12283,
+        "overtimePay": 22804,
+        "payslipId": 56,
+        "positionAllowance": 20000
+      },
+      "targetDate": "Wed, 01 Jan 2025 00:00:00 GMT",
+      "userId": 1
+    },
+    "4": {
+      "detail": [
+        {
+          "data": [
+            { "data": 15, "key": "出勤" },
+            { "data": 2, "key": "振休" },
+            { "data": 3, "key": "有休" },
+            { "data": 6.75, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 287000, "key": "基本給" },
+            { "data": 3300, "key": "営業所手当" },
+            { "data": 2700, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 19418, "key": "平日普通残業手当" },
+            { "data": 5136, "key": "通勤手当" },
+            { "data": 359, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 18245, "key": "健康保険料" },
+            { "data": 37515, "key": "厚生年金保険料" },
+            { "data": 2205, "key": "雇用保険料" },
+            { "data": 8770, "key": "所得税" },
+            { "data": 19600, "key": "住民税" },
+            { "data": 717, "key": "休業補償懇親会費" },
+            { "data": 210, "key": "食事代" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 367913,
+        "netIncome": 280651,
+        "operatingTime": 123,
+        "overtime": 6.75,
+        "payslipId": 47
+      },
+      "payslipId": 47,
+      "salaryStructure": {
+        "basicSalary": 287000,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 11495,
+        "overtimePay": 19418,
+        "payslipId": 47,
+        "positionAllowance": 0
+      },
+      "targetDate": "Mon, 01 Apr 2024 00:00:00 GMT",
+      "userId": 1
+    },
+    "5": {
+      "detail": [
+        {
+          "data": [
+            { "data": 17, "key": "出勤" },
+            { "data": 2, "key": "有休" },
+            { "data": 4, "key": "平日普通" },
+            { "data": 3, "key": "休日普通" },
+            { "data": 0.5, "key": "休日深夜" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 319500, "key": "基本給" },
+            { "data": 2842, "key": "営業所手当" },
+            { "data": 3300, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 12602, "key": "平日普通残業手当" },
+            { "data": 10542, "key": "\t休日普通勤務手当" },
+            { "data": 2121, "key": "休日深夜勤務手当" },
+            { "data": 5992, "key": "通勤手当" },
+            { "data": 399, "key": "調整B" },
+            { "data": 13081, "key": "昇給差額" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 18245, "key": "健康保険料" },
+            { "data": 37515, "key": "厚生年金保険料" },
+            { "data": 2519, "key": "雇用保険料" },
+            { "data": 12960, "key": "所得税" },
+            { "data": 19600, "key": "住民税" },
+            { "data": 798, "key": "休業補償懇親会費" },
+            { "data": 140, "key": "食事代" },
+            { "data": 3286, "key": "その他控除" }
+          ],
+          "key": "控除"
+        },
+        {
+          "data": [{ "data": 3286, "key": "経営会議コンパ代" }],
+          "key": "その他控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 420379,
+        "netIncome": 325316,
+        "operatingTime": 139.25,
+        "overtime": 7.5,
+        "payslipId": 48
+      },
+      "payslipId": 48,
+      "salaryStructure": {
+        "basicSalary": 299500,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 25614,
+        "overtimePay": 25265,
+        "payslipId": 48,
+        "positionAllowance": 20000
+      },
+      "targetDate": "Wed, 01 May 2024 00:00:00 GMT",
+      "userId": 1
+    },
+    "6": {
+      "detail": [
+        {
+          "data": [
+            { "data": 21, "key": "出勤" },
+            { "data": 1, "key": "半休" },
+            { "data": 9.75, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 319500, "key": "基本給" },
+            { "data": 2857, "key": "営業所手当" },
+            { "data": 3300, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 30719, "key": "平日普通残業手当" },
+            { "data": 8560, "key": "通勤手当" },
+            { "data": 399, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 18245, "key": "健康保険料" },
+            { "data": 37515, "key": "厚生年金保険料" },
+            { "data": 2489, "key": "雇用保険料" },
+            { "data": 12340, "key": "所得税" },
+            { "data": 798, "key": "休業補償懇親会費" },
+            { "data": 70, "key": "食事代" },
+            { "data": 1000, "key": "その他控除" }
+          ],
+          "key": "控除"
+        },
+        { "data": [{ "data": 1000, "key": "募金代" }], "key": "その他控除" }
+      ],
+      "overview": {
+        "bonus": 965034,
+        "bonusTakeHome": 773466,
+        "grossIncome": 415335,
+        "netIncome": 342878,
+        "operatingTime": 172.5,
+        "overtime": 9.75,
+        "payslipId": 49
+      },
+      "payslipId": 49,
+      "salaryStructure": {
+        "basicSalary": 295000,
+        "bonus": 965034,
+        "housingAllowance": 50000,
+        "other": 15116,
+        "overtimePay": 30719,
+        "payslipId": 49,
+        "positionAllowance": 20000
+      },
+      "targetDate": "Sat, 01 Jun 2024 00:00:00 GMT",
+      "userId": 1
+    },
+    "7": {
+      "detail": [
+        {
+          "data": [
+            { "data": 19, "key": "出勤" },
+            { "data": 1, "key": "有休" },
+            { "data": 1, "key": "半休" },
+            { "data": 11.5, "key": "平日普通" },
+            { "data": 3, "key": "休日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 319500, "key": "基本給" },
+            { "data": 2700, "key": "営業所手当" },
+            { "data": 3600, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 36247, "key": "平日普通残業手当" },
+            { "data": 10547, "key": "休日普通勤務手当" },
+            { "data": 6848, "key": "通勤手当" },
+            { "data": 399, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 18245, "key": "健康保険料" },
+            { "data": 37515, "key": "厚生年金保険料" },
+            { "data": 2576, "key": "雇用保険料" },
+            { "data": 13660, "key": "所得税" },
+            { "data": 29000, "key": "住民税" },
+            { "data": 790, "key": "休業補償懇親会費" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 429841,
+        "netIncome": 328047,
+        "operatingTime": 157.75,
+        "overtime": 14.5,
+        "payslipId": 50
+      },
+      "payslipId": 50,
+      "salaryStructure": {
+        "basicSalary": 299500,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 13547,
+        "overtimePay": 46794,
+        "payslipId": 50,
+        "positionAllowance": 20000
+      },
+      "targetDate": "Mon, 01 Jul 2024 00:00:00 GMT",
+      "userId": 1
+    },
+    "8": {
+      "detail": [
+        {
+          "data": [
+            { "data": 18, "key": "出勤" },
+            { "data": 2, "key": "有休" },
+            { "data": 1, "key": "半休" },
+            { "data": 8.5, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 319500, "key": "基本給" },
+            { "data": 3000, "key": "営業所手当" },
+            { "data": 3000, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 26770, "key": "平日普通残業手当" },
+            { "data": 6848, "key": "通勤手当" },
+            { "data": 399, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 18245, "key": "健康保険料" },
+            { "data": 37515, "key": "厚生年金保険料" },
+            { "data": 2454, "key": "雇用保険料" },
+            { "data": 18550, "key": "所得税" },
+            { "data": 28100, "key": "住民税" },
+            { "data": 798, "key": "休業補償懇親会費" },
+            { "data": 70, "key": "食事代" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 409517,
+        "netIncome": 303785,
+        "operatingTime": 144,
+        "overtime": 8.5,
+        "payslipId": 51
+      },
+      "payslipId": 51,
+      "salaryStructure": {
+        "basicSalary": 299500,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 13247,
+        "overtimePay": 26770,
+        "payslipId": 51,
+        "positionAllowance": 20000
+      },
+      "targetDate": "Thu, 01 Aug 2024 00:00:00 GMT",
+      "userId": 1
+    },
+    "9": {
+      "detail": [
+        {
+          "data": [
+            { "data": 20, "key": "出勤" },
+            { "data": 1, "key": "半休" },
+            { "data": 4, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 319500, "key": "基本給" },
+            { "data": 2400, "key": "営業所手当" },
+            { "data": 3600, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 12597, "key": "平日普通残業手当" },
+            { "data": 6848, "key": "通勤手当" },
+            { "data": 399, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 18245, "key": "健康保険料" },
+            { "data": 37515, "key": "厚生年金保険料" },
+            { "data": 2369, "key": "雇用保険料" },
+            { "data": 31340, "key": "所得税" },
+            { "data": 28100, "key": "住民税" },
+            { "data": 798, "key": "休業補償懇親会費" },
+            { "data": 80, "key": "食事代" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 395344,
+        "netIncome": 276897,
+        "operatingTime": 155,
+        "overtime": 4,
+        "payslipId": 52
+      },
+      "payslipId": 52,
+      "salaryStructure": {
+        "basicSalary": 299500,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 13247,
+        "overtimePay": 12597,
+        "payslipId": 52,
+        "positionAllowance": 20000
+      },
+      "targetDate": "Sun, 01 Sep 2024 00:00:00 GMT",
+      "userId": 1
+    },
+    "10": {
+      "detail": [
+        {
+          "data": [
+            { "data": 13, "key": "出勤" },
+            { "data": 6, "key": "有給" },
+            { "data": 8, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 319500, "key": "基本給" },
+            { "data": 3789, "key": "\t営業所手当" },
+            { "data": 2100, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 25187, "key": "\t平日普通残業手当" },
+            { "data": 5136, "key": "通勤手当" },
+            { "data": 399, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 18245, "key": "健康保険料" },
+            { "data": 37515, "key": "厚生年金保険料" },
+            { "data": 2434, "key": "雇用保険料" },
+            { "data": 16780, "key": "所得税" },
+            { "data": 28100, "key": "住民税" },
+            { "data": 798, "key": "休業補償懇親会費" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 406111,
+        "netIncome": 302239,
+        "operatingTime": 108.75,
+        "overtime": 8,
+        "payslipId": 53
+      },
+      "payslipId": 53,
+      "salaryStructure": {
+        "basicSalary": 319500,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 11424,
+        "overtimePay": 25187,
+        "payslipId": 53,
+        "positionAllowance": 20000
+      },
+      "targetDate": "Tue, 01 Oct 2024 00:00:00 GMT",
+      "userId": 1
+    },
+    "11": {
+      "detail": [
+        {
+          "data": [
+            { "data": 21, "key": "出勤" },
+            { "data": 1, "key": "有休" },
+            { "data": 1, "key": "遅早外(回数)" },
+            { "data": 3.5, "key": "遅早外(時間)" },
+            { "data": 10.25, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 319500, "key": "基本給" },
+            { "data": 3545, "key": "営業所手当" },
+            { "data": 2700, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 32302, "key": "平日普通残業手当" },
+            { "data": 9844, "key": "通勤手当" },
+            { "data": 399, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 18245, "key": "健康保険料" },
+            { "data": 37515, "key": "厚生年金保険料" },
+            { "data": 2507, "key": "雇用保険料" },
+            { "data": 12480, "key": "所得税" },
+            { "data": 28100, "key": "住民税" },
+            { "data": 798, "key": "休業補償懇親会費" },
+            { "data": 180, "key": "食事代" }
+          ],
+          "key": "控除"
+        }
+      ],
+      "overview": {
+        "bonus": 0,
+        "bonusTakeHome": 0,
+        "grossIncome": 418290,
+        "netIncome": 318465,
+        "operatingTime": 169.5,
+        "overtime": 10.25,
+        "payslipId": 54
+      },
+      "payslipId": 54,
+      "salaryStructure": {
+        "basicSalary": 299500,
+        "bonus": 0,
+        "housingAllowance": 50000,
+        "other": 16488,
+        "overtimePay": 32302,
+        "payslipId": 54,
+        "positionAllowance": 20000
+      },
+      "targetDate": "Fri, 01 Nov 2024 00:00:00 GMT",
+      "userId": 1
+    },
+    "12": {
+      "detail": [
+        {
+          "data": [
+            { "data": 20, "key": "出勤" },
+            { "data": 3, "key": "半休" },
+            { "data": 3, "key": "時間休(有休)" },
+            { "data": 3.5, "key": "平日普通" }
+          ],
+          "key": "勤怠"
+        },
+        {
+          "data": [
+            { "data": 319500, "key": "基本給" },
+            { "data": 3300, "key": "営業所手当" },
+            { "data": 2700, "key": "在宅手当" },
+            { "data": 50000, "key": "寮補助手当" },
+            { "data": 11023, "key": "平日普通残業手当" },
+            { "data": 9416, "key": "通勤手当" },
+            { "data": 399, "key": "調整B" }
+          ],
+          "key": "支給"
+        },
+        {
+          "data": [
+            { "data": 18245, "key": "健康保険料" },
+            { "data": 37515, "key": "厚生年金保険料" },
+            { "data": 2375, "key": "雇用保険料" },
+            { "data": 10730, "key": "所得税" },
+            { "data": 28100, "key": "住民税" },
+            { "data": 798, "key": "休業補償懇親会費" },
+            { "data": 70, "key": "食事代" },
+            { "data": 4000, "key": "その他控除" },
+            { "data": 20152, "key": "所得税年末調整" }
+          ],
+          "key": "控除"
+        },
+        { "data": [{ "data": 4000, "key": "募金代" }], "key": "その他控除" }
+      ],
+      "overview": {
+        "bonus": 1022000,
+        "bonusTakeHome": 787347,
+        "grossIncome": 396338,
+        "netIncome": 274353,
+        "operatingTime": 147.5,
+        "overtime": 3.5,
+        "payslipId": 55
+      },
+      "payslipId": 55,
+      "salaryStructure": {
+        "basicSalary": 299500,
+        "bonus": 1022000,
+        "housingAllowance": 50000,
+        "other": 15815,
+        "overtimePay": 11023,
+        "payslipId": 55,
+        "positionAllowance": 20000
+      },
+      "targetDate": "Sun, 01 Dec 2024 00:00:00 GMT",
+      "userId": 1
+    }
+  }
+}
