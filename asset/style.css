@@ -108,10 +108,6 @@ table > tbody td {
   border-bottom: 1px solid black;
 }
 
-table > tbody td:not(:last-of-type) {
-  white-space: nowrap;
-}
-
 table > tbody td.wrappable {
   white-space: normal !important;
 }
