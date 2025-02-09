@@ -204,3 +204,7 @@ button:hover {
 .jp-InputArea pre {
   overflow-y: auto !important;
 }
+
+.jp-RenderedHTMLCommon.jp-OutputArea-output.jp-OutputArea-executeResult {
+  display: table-cell !important;
+}
