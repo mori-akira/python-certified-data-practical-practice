@@ -11,7 +11,11 @@
 ### スクリプト
 `body` タグの末尾に追加
 ```html
-  <script src="../asset/jquery-3.7.1.slim.min.js"></script>
+  <script
+    src="https://code.jquery.com/jquery-3.7.1.min.js"
+    integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+    crossorigin="anonymous"
+  ></script>
   <script src="../asset/masked-block.js"></script>
   <script src="../asset/hide-output-area.js"></script>
 ```

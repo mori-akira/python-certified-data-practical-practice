@@ -1,0 +1,8 @@
+.completion-check-target > input {
+  margin-left: 1rem;
+  font-size: 0.8rem;
+}
+
+.completion-check-target > label {
+  font-size: 0.8rem;
+}
