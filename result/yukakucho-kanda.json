@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "yukakucho-kanda",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "yurakucho" }, "geometry": { "type": "Point", "coordinates": [ 35.675056, 139.763333 ] } },
+{ "type": "Feature", "properties": { "name": "tokyo-kanda" }, "geometry": { "type": "LineString", "coordinates": [ [ 35.681111, 139.766667 ], [ 35.691667, 139.770833 ] ] } }
+]
+}
